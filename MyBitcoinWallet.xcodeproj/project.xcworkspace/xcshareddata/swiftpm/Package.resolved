@@ -1,0 +1,77 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "f455c2975872ccd2d9c81594c658af65716e9b9a",
+        "version" : "5.9.1"
+      }
+    },
+    {
+      "identity" : "bitcoinkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sorifico/BitcoinKit",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f2986994ff8b5fd0ad4837281f5e42dca8b62669"
+      }
+    },
+    {
+      "identity" : "bits",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/bits.git",
+      "state" : {
+        "revision" : "03079476b04139a8b744ad96f975176df5ae12bc",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/core.git",
+      "state" : {
+        "revision" : "aa15871311b497a24a7f0e96b1ae6865dd600818",
+        "version" : "2.2.1"
+      }
+    },
+    {
+      "identity" : "debugging",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor/debugging.git",
+      "state" : {
+        "revision" : "fc5a27d6eb236141dc24e5f14eedaa2e035ae7b3",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "openssl",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzyzanowskim/OpenSSL.git",
+      "state" : {
+        "revision" : "84a8ae774291a4ab1971e42908d5114d98d4b623",
+        "version" : "3.1.5004"
+      }
+    },
+    {
+      "identity" : "random",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vapor-community/random.git",
+      "state" : {
+        "revision" : "d7c4397d125caba795d14d956efacfe2a27a63d0",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "secp256k1.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Boilertalk/secp256k1.swift",
+      "state" : {
+        "revision" : "cd187c632fb812fd93711a9f7e644adb7e5f97f0",
+        "version" : "0.1.7"
+      }
+    }
+  ],
+  "version" : 2
+}
